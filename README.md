@@ -80,3 +80,8 @@ SMBIOS:iMac 15.1
 
 # Screenshot
 ![alt text](Mac.png)
+![alt text](info.png)
+![alt text](Usb.png)
+![alt text](Ethernet.png)
+![alt text](Audio.png)
+![alt text](GPU.png)
