@@ -1,4 +1,4 @@
-# Asus-B85M-G-Hackimtosh 
+# Asus-B85M-G-Hackintosh 
 
 ## Use Device
 MB:Asus B85M-G.
