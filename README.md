@@ -9,23 +9,23 @@ Audio:Realtek ALC887
 Ethernet/WIFI:Realtek 8111G/ BCM4360
 
 # Setting BIOS:
-CPU:
+# CPU:
 Advanced/CPU Configuration/Inyel Virtuallzation Technology:Enabled
 Advanced/System Agent Configuration/VT-d:Disabled
-Use iGPU:
+# Use iGPU:
 Advanced/System Agent Configuration/Primary Display:iGPU
 Advanced/System Agent Configuration/iGPU Memory:64M
-Use GPU card:
+# Use GPU card:
 Advanced/System Agent Configuration/Primary Display:PCIE
 Use GPU card+iGPU:
 Advanced/System Agent Configuration/Primary Display:PCIE
 Advanced/System Agent Configuration/iGPU Memory:64M
 Advanced/System Agent Configuration/iGPU Multi-Momltor:Enabled
-USB:
+# USB:
 Advanced/USB Configuraton/Legacy USB Support:Enabled
 Advanced/USB Configuraton/Intel xHCI Mode:Enabled
 Advanced/USB Configuraton/EHCI Hand-off:Enabled
-Sleep:
+# Sleep:
 Advanced/Onboard Devices Configuration/Serial Port Configuration/Serial Port:Disabled
 Boot:
 Boot/Fast Boot:Disabled
