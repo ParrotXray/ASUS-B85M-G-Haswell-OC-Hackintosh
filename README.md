@@ -1,6 +1,6 @@
-#### Asus-B85M-G-Hackimtosh 
+# Asus-B85M-G-Hackimtosh 
 
-# Use Device
+## Use Device
 MB:Asus B85M-G.
 
 BIOS version:0940.
@@ -60,7 +60,7 @@ Boot/CSM/Launch CSM: Disabled
 Boot/Secure Boot menu/OS Type:Other OS
 
 
-# Device status
+## Device status
 
 Sleep:normal
 
@@ -72,13 +72,13 @@ HD4600:unusual,Rx560 instead
 
 WIFI:normal
 
-# System
+## System
 
 OS:MacOS Big Sur11.4
 
 SMBIOS:iMac 15.1
 
-# Screenshot
+## Screenshot
 ![alt text](Mac.png)
 ![alt text](info.png)
 ![alt text](Usb.png)
