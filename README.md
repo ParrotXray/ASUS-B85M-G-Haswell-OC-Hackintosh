@@ -26,7 +26,7 @@ Advanced/USB Configuraton/Legacy USB Support:Enabled
 Advanced/USB Configuraton/Intel xHCI Mode:Enabled
 Advanced/USB Configuraton/EHCI Hand-off:Enabled
 Sleep:
-Advanced/Onboard Devices Configuration/Serial Port Configuration Serial Port:Disabled
+Advanced/Onboard Devices Configuration/Serial Port Configuration/Serial Port:Disabled
 Boot:
 Boot/Fast Boot:Disabled
 Boot/CSM/Launch CSM: Disabled
