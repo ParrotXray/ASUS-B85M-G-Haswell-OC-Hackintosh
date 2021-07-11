@@ -7,7 +7,9 @@ BIOS version:0940.
 
 CPU:i5 4460.
 
-GPU:AMD Radeon RX560/HD4600.
+dGPU:AMD Radeon RX560.
+
+iGPU:HD4600.
 
 Audio:Realtek ALC887.
 
@@ -85,7 +87,10 @@ Boot/Secure Boot menu/OS Type:Other OS
 
 ![alt text](Audio.png)
 
-💻HD4600:unusual,Rx560 instead
+💻iGPU:unusual
+
+
+  dGPU:Rx560 instead
 
 ![alt text](GPU.png)
 
