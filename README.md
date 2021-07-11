@@ -87,10 +87,7 @@ Boot/Secure Boot menu/OS Type:Other OS
 
 ![alt text](Audio.png)
 
-💻iGPU:unusual
-
-
-  dGPU:Rx560 instead
+💻iGPU:unusual/dGPU:normal
 
 ![alt text](GPU.png)
 
