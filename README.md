@@ -27,11 +27,11 @@ Advanced/System Agent Configuration/Primary Display:iGPU
 
 Advanced/System Agent Configuration/iGPU Memory:64M
 
-### Use GPU card:
+### Use dGPU:
 
 Advanced/System Agent Configuration/Primary Display:PCIE
 
-### Use GPU card+iGPU:
+### Use dGPU+iGPU:
 
 Advanced/System Agent Configuration/Primary Display:PCIE
 
