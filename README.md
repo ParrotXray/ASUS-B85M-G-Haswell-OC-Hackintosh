@@ -11,9 +11,18 @@ GPU:AMD Radeon RX560/HD4600.
 
 Audio:Realtek ALC887.
 
-Memory:32GB
+Memory:32GB.
 
 Ethernet/WIFI:Realtek 8111/BCM4360.
+![alt text](info.png)
+
+
+## System
+
+OS:MacOS Big Sur11.4
+
+SMBIOS:iMac 15.1
+![alt text](Mac.png)
 
 
 ## Setting BIOS:
@@ -67,19 +76,13 @@ Boot/Secure Boot menu/OS Type:Other OS
 Sleep:normal
 
 USB Device:normal
+![alt text](Usb.png)
 
 Audio:normal,injact alcid=99
+![alt text](Audio.png)
 
 HD4600:unusual,Rx560 instead
+![alt text](GPU.png)
 
 WIFI:normal
-
-
-
-## Screenshot
-![alt text](Mac.png)
-![alt text](info.png)
-![alt text](Usb.png)
 ![alt text](Ethernet.png)
-![alt text](Audio.png)
-![alt text](GPU.png)
