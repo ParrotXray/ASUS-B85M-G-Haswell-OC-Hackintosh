@@ -22,6 +22,7 @@ Ethernet/WIFI:Realtek 8111/BCM4360.
 OS:MacOS Big Sur11.4
 
 SMBIOS:iMac 15.1
+
 ![alt text](Mac.png)
 
 
@@ -76,13 +77,17 @@ Boot/Secure Boot menu/OS Type:Other OS
 Sleep:normal
 
 USB Device:normal
+
 ![alt text](Usb.png)
 
 Audio:normal,injact alcid=99
+
 ![alt text](Audio.png)
 
 HD4600:unusual,Rx560 instead
+
 ![alt text](GPU.png)
 
 WIFI:normal
+
 ![alt text](Ethernet.png)
