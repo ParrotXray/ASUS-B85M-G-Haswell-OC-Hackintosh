@@ -33,17 +33,17 @@ Advanced/CPU Configuration/Inyel Virtuallzation Technology:Enabled
 
 Advanced/System Agent Configuration/VT-d:Disabled
 
-### Use iGPU:
+### iGPU:
 
 Advanced/System Agent Configuration/Primary Display:iGPU
 
 Advanced/System Agent Configuration/iGPU Memory:64M
 
-### Use dGPU:
+### dGPU:
 
 Advanced/System Agent Configuration/Primary Display:PCIE
 
-### Use dGPU+iGPU:
+### dGPU+iGPU:
 
 Advanced/System Agent Configuration/Primary Display:PCIE
 
