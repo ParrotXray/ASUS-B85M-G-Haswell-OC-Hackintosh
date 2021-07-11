@@ -14,6 +14,7 @@ Audio:Realtek ALC887.
 Memory:32GB.
 
 Ethernet/WIFI:Realtek 8111/BCM4360.
+
 ![alt text](info.png)
 
 
