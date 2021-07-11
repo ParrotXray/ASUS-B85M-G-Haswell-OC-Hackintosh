@@ -88,6 +88,6 @@ HD4600:unusual,Rx560 instead
 
 ![alt text](GPU.png)
 
-WIFI:normal
+WIFI/Ethernet:normal
 
 ![alt text](Ethernet.png)
