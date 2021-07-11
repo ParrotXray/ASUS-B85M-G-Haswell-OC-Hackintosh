@@ -1,6 +1,6 @@
 # Asus B85M-G Hackintosh 
 
-## Use Device
+## Device🖥️
 MB:Asus B85M-G.
 
 BIOS version:0940.
@@ -18,7 +18,7 @@ Ethernet/WIFI:Realtek 8111/BCM4360.
 ![alt text](info.png)
 
 
-## System
+## System📀
 
 OS:MacOS Big Sur11.4
 
@@ -27,7 +27,7 @@ SMBIOS:iMac 15.1
 ![alt text](Mac.png)
 
 
-## Setting BIOS:
+## Setting BIOS🛠️
 ### CPU:
 
 Advanced/CPU Configuration/Inyel Virtuallzation Technology:Enabled
@@ -73,22 +73,22 @@ Boot/CSM/Launch CSM: Disabled
 Boot/Secure Boot menu/OS Type:Other OS
 
 
-## Device status
+## Device status🗃️
 
-Sleep:normal
+Sleep😪:normal
 
-USB Device:normal
+USB Device📥:normal
 
 ![alt text](Usb.png)
 
-Audio:normal,injact alcid=99
+Audio🔊:normal,injact alcid=99
 
 ![alt text](Audio.png)
 
-HD4600:unusual,Rx560 instead
+HD4600💻:unusual,Rx560 instead
 
 ![alt text](GPU.png)
 
-WIFI/Ethernet:normal
+WIFI/Ethernet📡:normal
 
 ![alt text](Ethernet.png)
