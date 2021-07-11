@@ -90,7 +90,7 @@ Boot/Secure Boot menu/OS Type:Other OS
 💻iGPU:unusual
 
 
-__dGPU:Rx560 instead
+  dGPU:Rx560 instead
 
 ![alt text](GPU.png)
 
