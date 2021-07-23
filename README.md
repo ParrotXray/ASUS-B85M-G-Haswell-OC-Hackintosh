@@ -75,7 +75,7 @@ Boot/CSM/Launch CSM: Disabled
 Boot/Secure Boot menu/OS Type:Other OS
 
 
-## 💡Device status
+## 💡Device stetus
 
 😪Sleep:normal
 
