@@ -30,6 +30,10 @@ SMBIOS:iMac 15.1
 
 
 ## 🛠️Setting BIOS
+### Hard drive:
+
+SATA Modle:AHCI
+
 ### CPU:
 
 Advanced/CPU Configuration/Inyel Virtuallzation Technology:Enabled
