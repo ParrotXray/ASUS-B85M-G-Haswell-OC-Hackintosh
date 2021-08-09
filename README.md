@@ -91,7 +91,7 @@ Boot/Secure Boot menu/OS Type:Other OS
 
 ![alt text](Audio.png)
 
-💻iGPU:unusual/dGPU:normal
+💻iGPU:Assist dGPU hardware acceleration/dGPU:normal
 
 ![alt text](GPU.png)
 
