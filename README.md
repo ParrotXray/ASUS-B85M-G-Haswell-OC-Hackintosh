@@ -19,9 +19,9 @@ Ethernet/WIFI:Realtek 8111/BCM4360.
 
 ![alt text](info.png)
 
-## 📀SystemCancel changes
+## 📀System
 
-OS:MacOS Big Sur11.4
+OS:MacOS Big Sur11.5.1
 
 SMBIOS:iMac 15.1(OC 0.7.1),iMac 17.1(OC 0.7.2,support macOS 12.0 Monterey)
 
