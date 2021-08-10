@@ -33,10 +33,10 @@ SMBIOS:iMac 15.1(OC 0.7.1),iMac 17.1(OC 0.7.2,support macOS 12.0 Monterey)
 :-------------------------:|:-------------------------:|:-------------------------:
 PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x1B,0x0)
 AAPL,ig-platform-id:04001204(DATA)|AAPL,ig-platform-id:0300220D(DATA)|layout-id:05000000(DATA)
-device-id:12040000(DATA)|device-id:12040000(DATA)
-model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA) 
--|framebuffer-stolenmem:00003001(DATA)
--|model:Intel HD Graphics 4600(STRING)
+device-id:12040000(DATA)|device-id:12040000(DATA)|-
+model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
+-|framebuffer-stolenmem:00003001(DATA)|-
+-|model:Intel HD Graphics 4600(STRING)|-
 
 ## 🛠️Setting BIOS
 ### Hard drive:
