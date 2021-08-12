@@ -75,7 +75,7 @@ Advanced/USB Configuraton/Intel xHCI Mode:Enabled
 
 Advanced/USB Configuraton/EHCI Hand-off:Enabled
 
-### Sleep:
+### Fix Sleep:
 
 Advanced/Onboard Devices Configuration/Serial Port Configuration/Serial Port:Disabled
 
