@@ -45,7 +45,7 @@ SATA Modle:AHCI
 
 ### CPU:
 
-Advanced/CPU Configuration/Inyel Virtuallzation Technology:Enabled
+Advanced/CPU Configuration/Intel Virtuallzation Technology:Enabled
 
 Advanced/System Agent Configuration/VT-d:Disabled
 
