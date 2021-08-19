@@ -1,4 +1,4 @@
-### 語言
+### 🌐語言
 [English](README.md) | [中文](README-zh.md)
 
 # 🍎華碩 B85M-G 黑蘋果
