@@ -6,7 +6,7 @@
 ## 🖥️Device
 MB:Asus B85M-G.
 
-BIOS version:0940.
+BIOS version:bcm94360cd.
 
 CPU:i5 4460,4570.
 
