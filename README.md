@@ -6,7 +6,7 @@
 ## 🖥️Device
 MB:Asus B85M-G.
 
-BIOS version:bcm94360cd.
+BIOS version:0904.
 
 CPU:i5 4460,4570.
 
@@ -18,7 +18,7 @@ Audio:Realtek ALC887.
 
 Memory:32GB.
 
-Ethernet/WIFI:Realtek 8111/BCM4360.
+Ethernet/WIFI:Realtek 8111/BCM94360cd.
 
 ![alt text](info.png)
 
