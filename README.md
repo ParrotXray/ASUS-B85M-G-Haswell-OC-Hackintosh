@@ -25,6 +25,7 @@ Ethernet/WIFI:Realtek 8111/BCM4360.
 ## 📀System
 
 OS:MacOS Monterey 12.0.1
+
 SMBIOS:iMac 17.1
 
 ![alt text](Mac.png)
