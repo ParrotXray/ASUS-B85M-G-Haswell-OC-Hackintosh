@@ -8,7 +8,7 @@ MB:Asus B85M-G.
 
 BIOS version:0940.
 
-CPU:i5 4460.
+CPU:i5 4460,4570.
 
 dGPU:AMD Radeon RX560.
 
@@ -24,9 +24,8 @@ Ethernet/WIFI:Realtek 8111/BCM4360.
 
 ## 📀System
 
-OS:MacOS Big Sur11.5.1
-
-SMBIOS:iMac 15.1(OC 0.7.1),iMac 17.1(OC 0.7.2,support macOS 12.0 Monterey)
+OS:MacOS Monterey 12.0.1
+SMBIOS:iMac 17.1
 
 ![alt text](Mac.png)
 
