@@ -18,7 +18,7 @@ CPU:i5 4460,4570.
 
 記憶體:32GB.
 
-有線/無線網路:Realtek 8111/BCM4360.
+有線/無線網路:Realtek 8111/BCM94360cd.
 
 ![alt text](info.png)
 
