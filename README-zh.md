@@ -8,7 +8,7 @@
 
 BIOS版本:0940.
 
-CPU:i5 4460.
+CPU:i5 4460,4570.
 
 獨顯:AMD Radeon RX560.
 
@@ -24,9 +24,9 @@ CPU:i5 4460.
 
 ## 📀系統
 
-OS:MacOS Big Sur11.5.1
+OS:MacOS Monterey 12.0.1
 
-SMBIOS:iMac 15.1(OC 0.7.1),iMac 17.1(OC 0.7.2,以支持macOS 12.0 Monterey)
+SMBIOS:iMac 17.1
 
 ![alt text](Mac.png)
 
