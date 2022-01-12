@@ -44,7 +44,7 @@ model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
 ## 🛠️Setting BIOS
 ### Hard drive:
 
-SATA Modle:AHCI
+SATA Mode:AHCI
 
 ### CPU:
 
