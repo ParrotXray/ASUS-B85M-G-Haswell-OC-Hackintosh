@@ -9,6 +9,7 @@ MB:Asus B85M-G.
 BIOS version:0904.
 
 CPU:i5 4460,4570.
+
     i7 4770.
 
 dGPU:AMD Radeon RX560.
