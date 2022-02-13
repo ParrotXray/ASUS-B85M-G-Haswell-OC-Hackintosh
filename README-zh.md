@@ -1,38 +1,46 @@
-### 🌐語言
-[English](README.md) | [中文](README-zh.md)
+### 🌐Language
+[English](README.md) | [中文(未完成)](README-zh.md)
 
-# 🍎華碩 B85M-G 黑蘋果
+# 🍎Asus-B85M-G-Haswell-Hackintosh 
 
-## 🖥️設備
-主板:Asus B85M-G.
+## 🖥️Device
 
-BIOS版本:0940.
+| Motherboard | Asus B85M-G |
+|------------|-------------------------------|
+| CPU | i5 4460,4570,i7 4770(Haswell) |
+| dGPU | AMD Radeon RX580 |
+| iGPU | Intel® HD Graphics 4600 |
+| RAM | 32GB |
+| Audio | Realtek ALC887 |
+| WIFI／Bluetooth | BCM94360cd |
+| Ethernet | Realtek® 8111G |
+| BIOS Version | 0904 |
 
-CPU:i5 4460,4570,i7 4770
+## 📀System
 
-獨顯:AMD Radeon RX560.
+| ![alt text](Mac.png) |
+|------------|
+| <img src="https://static.techspot.com/images2/downloads/topdownload/2021/10/2021-10-27-ts3_thumbs-36e.png" height="32px"/>Monterey 12.2.1 |
+| <img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>OC 0.7.8 |
+| <img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>SMBIOS:iMac 17.1 | 
 
-內顯:HD4600.
+## 💡Device status
+### Works：
 
-音頻:Realtek ALC887.
+- [x] Graphics
+- [x] USB
+- [x] Sleep
+- [x] WiFi
+- [x] Speakers
+- [x] Microphone
+- [x] Bluetooth
+- [x] Ethernet
+### Unkown：
+- [ ] Apple Services
 
-記憶體:32GB.
+## 🛠️OC DevicePropertises setting
 
-有線/無線網路:Realtek 8111/BCM94360cd.
-
-![alt text](info.png)
-
-## 📀系統
-
-OS:MacOS Monterey 12.0.1
-
-SMBIOS:iMac 17.1
-
-![alt text](Mac.png)
-
-## 🛠️OC DevicePropertises設定
-
-   內顯+獨顯硬件加速 |  只使用獨顯(DVI)  |  音頻
+| iGPU+dGPU hardware acceleration |  Use iGPU(DVI)  |  Audio
 :-------------------------:|:-------------------------:|:-------------------------:
 PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x1B,0x0)
 AAPL,ig-platform-id:04001204(DATA)|AAPL,ig-platform-id:0300220D(DATA)|layout-id:05000000(DATA)
@@ -41,72 +49,53 @@ model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
 -|framebuffer-stolenmem:00003001(DATA)|-
 -|model:Intel HD Graphics 4600(STRING)|-
 
-## 🛠️設定BIOS
-### Hard drive:
+## 🛠️Setting BIOS
+#### SATA:
 
-SATA Modle:AHCI
+- Advanced/SATA Configuration/SATA Mode Selection:AHCI
 
-### CPU:
+#### CPU:
 
-Advanced/CPU Configuration/Intel Virtuallzation Technology:Enabled
+- Advanced/CPU Configuration/Intel Virtuallzation Technology:Enabled
 
-Advanced/System Agent Configuration/VT-d:Disabled
+- Advanced/System Agent Configuration/VT-d:Disabled
 
-### iGPU:
+#### USB:
 
-Advanced/System Agent Configuration/Primary Display:iGPU
+- Advanced/USB Configuraton/Legacy USB Support:Enabled
 
-Advanced/System Agent Configuration/iGPU Memory:64M
+- Advanced/USB Configuraton/Intel xHCI Mode:Enabled
 
-### dGPU:
+- Advanced/USB Configuraton/EHCI Hand-off:Enabled
 
-Advanced/System Agent Configuration/Primary Display:PCIE
+#### Fix Sleep:
 
-### dGPU+iGPU:
+- Advanced/Onboard Devices Configuration/Serial Port Configuration/Serial Port:Disabled
 
-Advanced/System Agent Configuration/Primary Display:PCIE
+#### Boot:
 
-Advanced/System Agent Configuration/iGPU Memory:64M
+- Boot/Fast Boot:Disabled
 
-Advanced/System Agent Configuration/iGPU Multi-Momltor:Enabled
+- Boot/CSM/Launch CSM: Disabled
 
-### USB:
+- Boot/Secure Boot menu/OS Type:Other OS
 
-Advanced/USB Configuraton/Legacy USB Support:Enabled
+### GPU Settings
 
-Advanced/USB Configuraton/Intel xHCI Mode:Enabled
+#### Use iGPU:
 
-Advanced/USB Configuraton/EHCI Hand-off:Enabled
+- Advanced/System Agent Configuration/Primary Display:iGPU
 
-### Fix Sleep:
+- Advanced/System Agent Configuration/iGPU Memory:64M
 
-Advanced/Onboard Devices Configuration/Serial Port Configuration/Serial Port:Disabled
+#### Use dGPU:
 
-### Boot:
+- Advanced/System Agent Configuration/Primary Display:PCIE
 
-Boot/Fast Boot:Disabled
+#### Use dGPU+iGPU:
 
-Boot/CSM/Launch CSM: Disabled
+- Advanced/System Agent Configuration/Primary Display:PCIE
 
-Boot/Secure Boot menu/OS Type:Other OS
+- Advanced/System Agent Configuration/iGPU Memory:64M
 
-
-## 💡設備狀態
-
-😪睡眠:正常
-
-💾USB設備:正常
-
-![alt text](Usb.png)
-
-🔊音頻:正常,注入alcid=5
-
-![alt text](Audio.png)
-
-💻內顯:協助獨顯硬件加速/獨顯:正常
-
-![alt text](GPU.png)
-
-📡有線/無線網路:正常
-
-![alt text](Ethernet.png)
+- Advanced/System Agent Configuration/iGPU Multi-Momltor:Enabled
