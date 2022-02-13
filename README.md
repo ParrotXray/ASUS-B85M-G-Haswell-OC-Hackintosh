@@ -24,69 +24,9 @@
 | <img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.7.8 |
 | <img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/> SMBIOS:iMac 17.1 | 
 
-## 🛠️OC DevicePropertises setting
-
-   iGPU+dGPU hardware acceleration |  Use iGPU(DVI)  |  Audio
-:-------------------------:|:-------------------------:|:-------------------------:
-PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x1B,0x0)
-AAPL,ig-platform-id:04001204(DATA)|AAPL,ig-platform-id:0300220D(DATA)|layout-id:05000000(DATA)
-device-id:12040000(DATA)|device-id:12040000(DATA)|-
-model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
--|framebuffer-stolenmem:00003001(DATA)|-
--|model:Intel HD Graphics 4600(STRING)|-
-
-## 🛠️Setting BIOS
-### Hard drive:
-
-SATA Mode:AHCI
-
-### CPU:
-
-Advanced/CPU Configuration/Intel Virtuallzation Technology:Enabled
-
-Advanced/System Agent Configuration/VT-d:Disabled
-
-### iGPU:
-
-Advanced/System Agent Configuration/Primary Display:iGPU
-
-Advanced/System Agent Configuration/iGPU Memory:64M
-
-### dGPU:
-
-Advanced/System Agent Configuration/Primary Display:PCIE
-
-### dGPU+iGPU:
-
-Advanced/System Agent Configuration/Primary Display:PCIE
-
-Advanced/System Agent Configuration/iGPU Memory:64M
-
-Advanced/System Agent Configuration/iGPU Multi-Momltor:Enabled
-
-### USB:
-
-Advanced/USB Configuraton/Legacy USB Support:Enabled
-
-Advanced/USB Configuraton/Intel xHCI Mode:Enabled
-
-Advanced/USB Configuraton/EHCI Hand-off:Enabled
-
-### Fix Sleep:
-
-Advanced/Onboard Devices Configuration/Serial Port Configuration/Serial Port:Disabled
-
-### Boot:
-
-Boot/Fast Boot:Disabled
-
-Boot/CSM/Launch CSM: Disabled
-
-Boot/Secure Boot menu/OS Type:Other OS
-
-
 ## 💡Device status
 ### Works：
+
 - [x] Graphics
 - [x] USB
 - [x] Sleep
@@ -97,3 +37,65 @@ Boot/Secure Boot menu/OS Type:Other OS
 - [x] Ethernet
 ### Unkown：
 - [ ] Apple Services
+
+## 🛠️OC DevicePropertises setting
+
+| iGPU+dGPU hardware acceleration |  Use iGPU(DVI)  |  Audio
+:-------------------------:|:-------------------------:|:-------------------------:
+PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x1B,0x0)
+AAPL,ig-platform-id:04001204(DATA)|AAPL,ig-platform-id:0300220D(DATA)|layout-id:05000000(DATA)
+device-id:12040000(DATA)|device-id:12040000(DATA)|-
+model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
+-|framebuffer-stolenmem:00003001(DATA)|-
+-|model:Intel HD Graphics 4600(STRING)|-
+
+## 🛠️Setting BIOS
+#### Hard drive:
+
+SATA Mode:AHCI
+
+#### CPU:
+
+Advanced/CPU Configuration/Intel Virtuallzation Technology:Enabled
+
+Advanced/System Agent Configuration/VT-d:Disabled
+
+#### USB:
+
+Advanced/USB Configuraton/Legacy USB Support:Enabled
+
+Advanced/USB Configuraton/Intel xHCI Mode:Enabled
+
+Advanced/USB Configuraton/EHCI Hand-off:Enabled
+
+#### Fix Sleep:
+
+Advanced/Onboard Devices Configuration/Serial Port Configuration/Serial Port:Disabled
+
+#### Boot:
+
+Boot/Fast Boot:Disabled
+
+Boot/CSM/Launch CSM: Disabled
+
+Boot/Secure Boot menu/OS Type:Other OS
+
+### GPU Settings
+
+#### Use iGPU:
+
+Advanced/System Agent Configuration/Primary Display:iGPU
+
+Advanced/System Agent Configuration/iGPU Memory:64M
+
+#### Use dGPU:
+
+Advanced/System Agent Configuration/Primary Display:PCIE
+
+#### Use dGPU+iGPU:
+
+Advanced/System Agent Configuration/Primary Display:PCIE
+
+Advanced/System Agent Configuration/iGPU Memory:64M
+
+Advanced/System Agent Configuration/iGPU Multi-Momltor:Enabled
