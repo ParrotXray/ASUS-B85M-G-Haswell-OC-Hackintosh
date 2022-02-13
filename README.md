@@ -4,23 +4,17 @@
 # 🍎Asus B85M-G Hackintosh 
 
 ## 🖥️Device
-MB:Asus B85M-G.
 
-BIOS version:0904.
-
-CPU:i5 4460,4570,i7 4770.
-
-dGPU:AMD Radeon RX580.
-
-iGPU:HD4600.
-
-Audio:Realtek ALC887.
-
-Memory:32GB.
-
-Ethernet/WIFI:Realtek 8111/BCM94360cd.
-
-![alt text](info.png)
+| Model | Asus B85M-G |
+|------------|-------------------------------|
+| CPU | i5 4460,4570,i7 4770(Haswell) |
+|dGPU|AMD Radeon RX580|
+| iGPU | Intel® HD Graphics 4600 |
+| RAM | 32GB |
+| Audio | Realtek ALC887 |
+| WIFI／Bluetooth | BCM94360cd |
+|Ethernet|Realtek 8111|
+| BIOS Version | 0904 |
 
 ## 📀System
 
