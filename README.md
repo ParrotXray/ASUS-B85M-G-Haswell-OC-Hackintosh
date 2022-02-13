@@ -52,50 +52,50 @@ model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
 ## 🛠️Setting BIOS
 #### SATA:
 
-Advanced/SATA Configuration/SATA Mode Selection:AHCI
+- Advanced/SATA Configuration/SATA Mode Selection:AHCI
 
 #### CPU:
 
-Advanced/CPU Configuration/Intel Virtuallzation Technology:Enabled
+- Advanced/CPU Configuration/Intel Virtuallzation Technology:Enabled
 
-Advanced/System Agent Configuration/VT-d:Disabled
+- Advanced/System Agent Configuration/VT-d:Disabled
 
 #### USB:
 
-Advanced/USB Configuraton/Legacy USB Support:Enabled
+- Advanced/USB Configuraton/Legacy USB Support:Enabled
 
-Advanced/USB Configuraton/Intel xHCI Mode:Enabled
+- Advanced/USB Configuraton/Intel xHCI Mode:Enabled
 
-Advanced/USB Configuraton/EHCI Hand-off:Enabled
+- Advanced/USB Configuraton/EHCI Hand-off:Enabled
 
 #### Fix Sleep:
 
-Advanced/Onboard Devices Configuration/Serial Port Configuration/Serial Port:Disabled
+- Advanced/Onboard Devices Configuration/Serial Port Configuration/Serial Port:Disabled
 
 #### Boot:
 
-Boot/Fast Boot:Disabled
+- Boot/Fast Boot:Disabled
 
-Boot/CSM/Launch CSM: Disabled
+- Boot/CSM/Launch CSM: Disabled
 
-Boot/Secure Boot menu/OS Type:Other OS
+- Boot/Secure Boot menu/OS Type:Other OS
 
 ### GPU Settings
 
 #### Use iGPU:
 
-Advanced/System Agent Configuration/Primary Display:iGPU
+- Advanced/System Agent Configuration/Primary Display:iGPU
 
-Advanced/System Agent Configuration/iGPU Memory:64M
+- Advanced/System Agent Configuration/iGPU Memory:64M
 
 #### Use dGPU:
 
-Advanced/System Agent Configuration/Primary Display:PCIE
+- Advanced/System Agent Configuration/Primary Display:PCIE
 
 #### Use dGPU+iGPU:
 
-Advanced/System Agent Configuration/Primary Display:PCIE
+- Advanced/System Agent Configuration/Primary Display:PCIE
 
-Advanced/System Agent Configuration/iGPU Memory:64M
+- Advanced/System Agent Configuration/iGPU Memory:64M
 
-Advanced/System Agent Configuration/iGPU Multi-Momltor:Enabled
+- Advanced/System Agent Configuration/iGPU Multi-Momltor:Enabled
