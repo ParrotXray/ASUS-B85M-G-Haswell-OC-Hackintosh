@@ -10,7 +10,7 @@ BIOS version:0904.
 
 CPU:i5 4460,4570,i7 4770.
 
-dGPU:AMD Radeon RX560.
+dGPU:AMD Radeon RX580.
 
 iGPU:HD4600.
 
@@ -24,7 +24,7 @@ Ethernet/WIFI:Realtek 8111/BCM94360cd.
 
 ## 📀System
 
-OS:MacOS Monterey 12.1
+OS:MacOS Monterey 12.2.1
 
 SMBIOS:iMac 17.1
 
