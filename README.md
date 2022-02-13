@@ -1,7 +1,7 @@
 ### 🌐Language
 [English](README.md) | [中文](README-zh.md)
 
-# 🍎Asus B85M-G Hackintosh 
+# 🍎Asus-B85M-G-Haswell-Hackintosh 
 
 ## 🖥️Device
 
