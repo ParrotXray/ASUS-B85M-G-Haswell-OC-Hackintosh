@@ -5,7 +5,7 @@
 
 ## 🖥️Device
 
-| Model | Asus B85M-G |
+| Motherboard | Asus B85M-G |
 |------------|-------------------------------|
 | CPU | i5 4460,4570,i7 4770(Haswell) |
 | dGPU | AMD Radeon RX580 |
@@ -13,7 +13,7 @@
 | RAM | 32GB |
 | Audio | Realtek ALC887 |
 | WIFI／Bluetooth | BCM94360cd |
-| Ethernet |Realtek 8111|
+| Ethernet | Realtek® 8111G |
 | BIOS Version | 0904 |
 
 ## 📀System
