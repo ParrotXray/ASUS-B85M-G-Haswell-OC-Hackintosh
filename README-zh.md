@@ -3,20 +3,20 @@
 
 # 🍎Asus-B85M-G-Haswell-Hackintosh 
 
-## 🖥️Device
+## 🖥️設備
 
-| Motherboard | Asus B85M-G |
+| 主板 | Asus B85M-G |
 |------------|-------------------------------|
 | CPU | i5 4460,4570,i7 4770(Haswell) |
-| dGPU | AMD Radeon RX580 |
-| iGPU | Intel® HD Graphics 4600 |
-| RAM | 32GB |
-| Audio | Realtek ALC887 |
+| 獨顯dGPU | AMD Radeon RX580 |
+| 內顯iGPU | Intel® HD Graphics 4600 |
+| 記憶體 | 32GB |
+| 音頻 | Realtek ALC887 |
 | WIFI／Bluetooth | BCM94360cd |
-| Ethernet | Realtek® 8111G |
-| BIOS Version | 0904 |
+| 內建網卡 | Realtek® 8111G |
+| BIOS版本 | 0904 |
 
-## 📀System
+## 📀系統
 
 | ![alt text](Mac.png) |
 |------------|
@@ -24,23 +24,22 @@
 | <img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>OC:0.7.8 |
 | <img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>SMBIOS:iMac 17.1 | 
 
-## 💡Device status
-### Works：
-
-- [x] Graphics
+## 💡設備狀態
+### 正常工作：
+- [x] 顯卡
 - [x] USB
-- [x] Sleep
+- [x] 睡眠
 - [x] WiFi
-- [x] Speakers
-- [x] Microphone
-- [x] Bluetooth
-- [x] Ethernet
-### Unkown：
-- [ ] Apple Services
+- [x] 揚聲器
+- [x] 麥克風
+- [x] 藍芽
+- [x] 內建網卡
+### 未知：
+- [ ] Apple服務
 
-## 🛠️OC DevicePropertises setting
+## 🛠️OC DevicePropertises設定
 
-| iGPU+dGPU hardware acceleration |  Use iGPU(DVI)  |  Audio
+| iGPU+dGPU 硬件加速 |  Use iGPU(DVI)  |  音頻
 :-------------------------:|:-------------------------:|:-------------------------:
 PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x1B,0x0)
 AAPL,ig-platform-id:04001204(DATA)|AAPL,ig-platform-id:0300220D(DATA)|layout-id:05000000(DATA)
@@ -49,7 +48,7 @@ model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
 -|framebuffer-stolenmem:00003001(DATA)|-
 -|model:Intel HD Graphics 4600(STRING)|-
 
-## 🛠️Setting BIOS
+## 🛠️BIOS設定
 #### SATA:
 
 - Advanced/SATA Configuration/SATA Mode Selection:AHCI
