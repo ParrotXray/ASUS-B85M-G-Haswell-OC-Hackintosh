@@ -1,5 +1,5 @@
 ### 🌐Language
-[English](README.md) | [中文](README-zh.md)
+[English](README.md) | [中文(未完成)](README-zh.md)
 
 # 🍎Asus-B85M-G-Haswell-Hackintosh 
 
