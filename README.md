@@ -13,14 +13,13 @@
 | RAM | 32GB |
 | Audio | Realtek ALC887 |
 | WIFI／Bluetooth | BCM94360cd |
-|Ethernet|Realtek 8111|
+| Ethernet |Realtek 8111|
 | BIOS Version | 0904 |
 
 ## 📀System
 
-| Version |
+| ![alt text](Mac.png) |
 |------------|
-![alt text](Mac.png)
 | <img src="https://static.techspot.com/images2/downloads/topdownload/2021/10/2021-10-27-ts3_thumbs-36e.png" height="32px"/>Monterey 12.2.1 |
 | <img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.7.8 |
 | <img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/> SMBIOS:iMac 17.1 | 
@@ -86,22 +85,15 @@ Boot/CSM/Launch CSM: Disabled
 Boot/Secure Boot menu/OS Type:Other OS
 
 
-## 💡Device stetus
-
-😪Sleep:normal
-
-💾USB Device:normal
-
-![alt text](Usb.png)
-
-🔊Audio:normal,injact alcid=5
-
-![alt text](Audio.png)
-
-💻iGPU:Assist dGPU hardware acceleration/dGPU:normal
-
-![alt text](GPU.png)
-
-📡WIFI/Ethernet:normal
-
-![alt text](Ethernet.png)
+## 💡Device status
+### Works：
+- [x] Graphics
+- [x] USB
+- [x] Sleep
+- [x] WiFi
+- [x] Speakers
+- [x] Microphone
+- [x] Bluetooth
+- [x] Ethernet
+### Unkown：
+- [ ] Apple Services
