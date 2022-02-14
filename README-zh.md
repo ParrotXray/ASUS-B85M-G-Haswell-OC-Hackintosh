@@ -39,7 +39,7 @@
 
 ## 🛠️OC DevicePropertises設定
 
-| iGPU+dGPU 硬件加速 |  Use iGPU(DVI)  |  音頻
+| 使用iGPU+dGPU硬件加速 |  使用iGPU(DVI)  |  音頻
 :-------------------------:|:-------------------------:|:-------------------------:
 PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x1B,0x0)
 AAPL,ig-platform-id:04001204(DATA)|AAPL,ig-platform-id:0300220D(DATA)|layout-id:05000000(DATA)
@@ -79,19 +79,19 @@ model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
 
 - Boot/Secure Boot menu/OS Type:Other OS
 
-### GPU Settings
+### GPU設定
 
-#### Use iGPU:
+#### 只使用iGPU:
 
 - Advanced/System Agent Configuration/Primary Display:iGPU
 
 - Advanced/System Agent Configuration/iGPU Memory:64M
 
-#### Use dGPU:
+#### 只使用dGPU:
 
 - Advanced/System Agent Configuration/Primary Display:PCIE
 
-#### Use dGPU+iGPU:
+#### 使用dGPU+iGPU硬件加速:
 
 - Advanced/System Agent Configuration/Primary Display:PCIE
 
