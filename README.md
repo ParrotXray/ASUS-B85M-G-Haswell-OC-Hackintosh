@@ -22,7 +22,7 @@
 |------------|
 | <img src="https://static.techspot.com/images2/downloads/topdownload/2021/10/2021-10-27-ts3_thumbs-36e.png" height="32px"/>OS:Monterey 12.2.1 |
 | <img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>OC:0.7.8 |
-| <img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>SMBIOS:iMac 17.1 | 
+| <img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="29px"/>SMBIOS:iMac 17.1 | 
 
 ## 💡Device status
 ### Works：
@@ -39,7 +39,7 @@
 
 ## 🛠️OC DevicePropertises setting
 
-| iGPU+dGPU hardware acceleration |  Use iGPU(DVI)  |  Audio
+| Use iGPU+dGPU hardware acceleration |  Use iGPU(DVI)  |  Audio
 :-------------------------:|:-------------------------:|:-------------------------:
 PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x2,0x0)|PciRoot(0x0)/Pci(0x1B,0x0)
 AAPL,ig-platform-id:04001204(DATA)|AAPL,ig-platform-id:0300220D(DATA)|layout-id:05000000(DATA)
@@ -91,7 +91,7 @@ model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
 
 - Advanced/System Agent Configuration/Primary Display:PCIE
 
-#### Use dGPU+iGPU:
+#### Use dGPU+iGPU hardware acceleration:
 
 - Advanced/System Agent Configuration/Primary Display:PCIE
 
