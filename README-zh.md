@@ -50,7 +50,7 @@ model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
 
 ## 🛠️BIOS設定
   
-#### CFG鎖：
+#### CFG鎖:
 
 - BIOS 預設已解鎖
   
