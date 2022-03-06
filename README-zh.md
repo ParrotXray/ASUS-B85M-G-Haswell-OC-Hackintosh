@@ -49,6 +49,11 @@ model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
 -|model:Intel HD Graphics 4600(STRING)|-
 
 ## 🛠️BIOS設定
+  
+####CFG鎖：
+
+-BIOS 預設已解鎖
+  
 #### SATA:
 
 - Advanced/SATA Configuration/SATA Mode Selection:AHCI
