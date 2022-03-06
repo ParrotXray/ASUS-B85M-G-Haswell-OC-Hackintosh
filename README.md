@@ -49,6 +49,10 @@ model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
 -|model:Intel HD Graphics 4600(STRING)|-
 
 ## 🛠️Setting BIOS
+
+#### CFG lock:
+- Default is unlocked
+
 #### SATA:
 
 - Advanced/SATA Configuration/SATA Mode Selection:AHCI
