@@ -51,7 +51,7 @@ model:Intel HD Graphics 4600(STRING)|framebuffer-fbmem:00009000(DATA)|-
 ## 🛠️Setting BIOS
 
 #### CFG lock:
-- Default is unlocked
+- The BIOS preset is unlocked
 
 #### SATA:
 
