@@ -10,7 +10,7 @@
 | CPU | i5 4460,4570/i7 4770(Haswell) |
 | dGPU | AMD Radeon RX580 |
 | iGPU | Intel® HD Graphics 4600 |
-| RAM | 32GB |
+| RAM | DDR3 1600MHz 32GB |
 | Audio | Realtek ALC887 |
 | WIFI／Bluetooth | BCM94360cd |
 | Ethernet | Realtek® 8111G |
