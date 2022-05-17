@@ -34,6 +34,7 @@
 - [x] Microphone
 - [x] Bluetooth
 - [x] Ethernet
+- [x] AirDrop
 ### Unkown：
 - [ ] Apple Services
 
