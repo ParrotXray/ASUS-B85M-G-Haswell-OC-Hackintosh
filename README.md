@@ -24,6 +24,12 @@
 | <a href="https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.1"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.1 |
 | <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>iMac 17.1 | 
 
+| ![alt text](Mac.png) |
+|------------|
+| <a href="https://www.apple.com/tw/macos/macos-ventura-preview/"><img src="https://img4.orsoon.com:8901/ico/202206/07114858_9f91967003.png" height="32px"/>macOS Ventura 13(beta) |
+| <a href="https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.1"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.1 |
+| <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>iMac 18.1 |
+
 ## 💡Device status
 ### Works：
 - [x] Graphics
