@@ -18,7 +18,9 @@
 
 ## 📀System
 
-#### Noteice:iGPU with Haswell cpu cannot be driven on macOS Ventura, dGPU needs to be installed
+### Noteice:
+iGPU with Haswell cpu cannot be driven on macOS Ventura, dGPU needs to be installed
+ 
 | ![alt text](Mac13.png) |
 |------------|
 | <a href="https://www.apple.com/tw/macos/macos-ventura-preview/"><img src="https://ssf-co.com/may/wp-content/uploads/2020/07/How-to-create-a-bootable-installer-for-the-macOS-Big.jpg" height="32px"/>macOS Ventura 13(beta) |
