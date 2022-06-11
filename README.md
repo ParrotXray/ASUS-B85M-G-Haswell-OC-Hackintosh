@@ -12,7 +12,7 @@
 | iGPU | Intel® HD Graphics 4600 |
 | RAM | DDR3 1600MHz 32GB |
 | Audio | Realtek ALC887 |
-| WIFI／Bluetooth | BCM94360cd |
+| WIFI／Bluetooth | FV-T919(BCM94360cd) |
 | Ethernet | Realtek® 8111G |
 | BIOS Version | 0904 |
 
