@@ -12,7 +12,7 @@
 | 內顯iGPU | Intel® HD Graphics 4600 |
 | 記憶體 | 32GB |
 | 音頻 | Realtek ALC887 |
-| WIFI／Bluetooth | BCM94360cd |
+| WIFI／Bluetooth | FV-T919(BCM94360cd) |
 | 內建網卡 | Realtek® 8111G |
 | BIOS版本 | 0904 |
 
