@@ -7,7 +7,7 @@
 
 | Motherboard | Asus B85M-G |
 |------------|-------------------------------|
-| CPU | i5 4460,4570/i7 4770(Haswell) |
+| CPU | i5 4460,4570/i7 4770(Haswell 1150 CPUs) |
 | dGPU | AMD Radeon RX580 |
 | iGPU | Intel® HD Graphics 4600 |
 | RAM | DDR3 1600MHz 32GB |
