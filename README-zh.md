@@ -27,7 +27,7 @@
 | <a href="https://github.com/dortania/build-repo/releases/tag/OpenCorePkg-e733af2"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.2-Dev-e733af2 |
 | <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>iMac 19.1 |
  
-- 下載:https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/download/v0.8.2-Dev-33978d8/Opencore.0.8.2-Dev-33978d8.build-macOS.Ventura.zip
+- 下載:https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/download/v0.8.2-Dev-e733af2/Opencore.0.8.2-Dev-e733af2.build.zip
 
 | ![alt text](Mac.png) |
 |------------|
