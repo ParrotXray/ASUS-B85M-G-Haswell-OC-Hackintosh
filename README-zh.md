@@ -7,7 +7,7 @@
 
 | 主板 | Asus B85M-G |
 |------------|-------------------------------|
-| CPU | i5 4460,4570,i7 4770(Haswell) |
+| CPU | i5 4460,4570,i7 4770(Haswell 1150 CPUs) |
 | 獨顯dGPU | AMD Radeon RX580 |
 | 內顯iGPU | Intel® HD Graphics 4600 |
 | 記憶體 | 32GB |
