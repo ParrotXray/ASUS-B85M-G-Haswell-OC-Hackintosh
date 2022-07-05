@@ -27,7 +27,7 @@ iGPU with Haswell cpu cannot be driven on macOS Ventura, dGPU needs to be instal
 | <a href="https://github.com/dortania/build-repo/releases/tag/OpenCorePkg-e733af2"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.2-Dev-e733af2 |
 | <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>iMac 19.1 |
  
-- Download:https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/download/v0.8.2-Dev-e733af2/Opencore.0.8.2-Dev-e733af2.build.zip
+- <a href=https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/tag/v0.8.2-noigpu><img src="https://aux.iconspalace.com/uploads/downloads-folder-icon-256.png" height="32px">Click me to download EFI file
 
 | ![alt text](Mac.png) |
 |------------|
@@ -35,7 +35,7 @@ iGPU with Haswell cpu cannot be driven on macOS Ventura, dGPU needs to be instal
 | <a href="https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.1"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.1 |
 | <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>iMac 17.1 | 
  
-- Download:https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/download/v0.8.1/Opencore.0.8.1.build.zip
+- <a href=https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/tag/v0.8.2><img src="https://aux.iconspalace.com/uploads/downloads-folder-icon-256.png" height="32px">Click me to download EFI file
 
 ## 💡Device status
 ### Works：
