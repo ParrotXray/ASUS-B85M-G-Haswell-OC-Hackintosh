@@ -26,10 +26,10 @@
 | ![alt text](Mac13.png) |
 |------------|
 | <a href="https://www.apple.com/tw/macos/macos-ventura-preview/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/512px-MacOS_logo_%282017%29.svg.png?20210723125421" height="32px"/>macOS Ventura 13(beta 2) |
-| <a href="https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.2"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.2 |
+| <a href="https://github.com/dortania/build-repo/releases/tag/OpenCorePkg-d916dd6"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.3-Dev-d916dd6 |
 | <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>iMac 19.1 |
 
-- <a href=https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/tag/v0.8.2-noigpu><img src="https://aux.iconspalace.com/uploads/downloads-folder-icon-256.png" height="32px">點我下載EFI文件
+- <a href=https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/tag/v0.8.3-Dev-d916dd6><img src="https://aux.iconspalace.com/uploads/downloads-folder-icon-256.png" height="32px">點我下載EFI文件
 
 ### macOS Monterey
 
