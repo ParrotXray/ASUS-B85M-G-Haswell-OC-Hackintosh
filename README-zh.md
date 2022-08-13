@@ -23,7 +23,7 @@
 **注意**:  
 在macOS Ventura上無法驅動帶有Haswell cpu的核顯，需要安裝獨顯
 
-**更新macOS Ventura B3需注意**:
+**更新macOS Ventura B3需注意**:  
 替換完OC版本後，在終端機先執行此命令 **`sudo kextcache -i/`** ，在系統更新重啟後，需要先執行 **`CleanNvram.efi`** 後才能繼續下一步，如果在之前更新失敗需要套用新的OC引導後需在系統設置再下載一次更新
 
 | ![alt text](Mac13.png) |
