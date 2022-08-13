@@ -23,23 +23,26 @@
 **注意**:  
 在macOS Ventura上無法驅動帶有Haswell cpu的核顯，需要安裝獨顯
 
+**更新macOS Ventura B3需注意**:
+替換完OC版本後，在終端機先執行此命令 **`sudo kextcache -i/`** ，在系統更新重啟後，需要先執行 **`CleanNvram.efi`** 後才能繼續下一步，如果在之前更新失敗需要套用新的OC引導後需在系統設置再下載一次更新
+
 | ![alt text](Mac13.png) |
 |------------|
-| <a href="https://www.apple.com/tw/macos/macos-ventura-preview/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/512px-MacOS_logo_%282017%29.svg.png?20210723125421" height="32px"/>macOS Ventura 13(beta 3) |
-| <a href="https://github.com/dortania/build-repo/releases/tag/OpenCorePkg-79f0829"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.3-Dev-79f0829 |
+| <a href="https://www.apple.com/tw/macos/macos-ventura-preview/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/512px-MacOS_logo_%282017%29.svg.png?20210723125421" height="32px"/>macOS Ventura 13(beta 5) |
+| <a href="https://github.com/dortania/build-repo/releases/tag/OpenCorePkg-3e2e62a"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.4-Dev-3e2e62a |
 | <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>iMac 19.1 |
 
-- <a href=https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/tag/v0.8.3-Dev-79f0829><img src="https://aux.iconspalace.com/uploads/downloads-folder-icon-256.png" height="32px">點我下載EFI文件
+- <a href=https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/tag/v0.8.4-Dev-3e2e62a><img src="https://aux.iconspalace.com/uploads/downloads-folder-icon-256.png" height="32px">點我下載EFI文件
 
 ### macOS Monterey
 
 | ![alt text](Mac.png) |
 |------------|
-| <a href="https://www.apple.com/tw/macos/monterey/"><img src="https://static.techspot.com/images2/downloads/topdownload/2021/10/2021-10-27-ts3_thumbs-36e.png" height="32px"/>macOS Monterey 12.4 |
-| <a href="https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.2"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.2 |
+| <a href="https://www.apple.com/tw/macos/monterey/"><img src="https://static.techspot.com/images2/downloads/topdownload/2021/10/2021-10-27-ts3_thumbs-36e.png" height="32px"/>macOS Monterey 12.5 |
+| <a href="https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.3"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.3 |
 | <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>iMac 17.1 | 
 
-- <a href=https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/tag/v0.8.2><img src="https://aux.iconspalace.com/uploads/downloads-folder-icon-256.png" height="32px">點我下載EFI文件
+- <a href=https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/tag/v0.8.3><img src="https://aux.iconspalace.com/uploads/downloads-folder-icon-256.png" height="32px">點我下載EFI文件
  
 ## 💡設備狀態
 ### 正常工作：
