@@ -23,6 +23,9 @@
 **Noteice**:  
 iGPU with Haswell cpu cannot be driven on macOS Ventura, dGPU needs to be installed
 
+**Updating macOS Ventura B3 requires attention**:  
+After replacing the OC version, execute the command **`sudo kextcache -i/`** on the terminal. After the system is updated and restarted, you need to execute **`CleanNvram.efi`** before proceeding to the next step. If the previous update fails, you need to apply the new OC after booting, Download the update again in System Settings
+
 | ![alt text](Mac13.png) |
 |------------|
 | <a href="https://www.apple.com/tw/macos/macos-ventura-preview/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/512px-MacOS_logo_%282017%29.svg.png?20210723125421" height="32px"/>macOS Ventura 13(beta 5) |
