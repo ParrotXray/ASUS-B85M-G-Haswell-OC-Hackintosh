@@ -32,7 +32,7 @@ After replacing the OC version, execute the command **`sudo kextcache -i/`** on 
 | <a href="https://github.com/dortania/build-repo/releases/tag/OpenCorePkg-effb8fe"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.5-Dev-effb8fe |
 | <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>iMac 19.1 |
 
-- <a href="https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/tag/v0.8.4-Dev-3e2e62a"><img src="https://aux.iconspalace.com/uploads/downloads-folder-icon-256.png" height="32px">Click me to download EFI file
+- <a href="https://github.com/ParrotXray/ASUS-B85M-G-Haswell-OC-Hackintosh/releases/tag/v0.8.5-Dev-effb8fe"><img src="https://aux.iconspalace.com/uploads/downloads-folder-icon-256.png" height="32px">Click me to download EFI file
 
 ### macOS Monterey
 
