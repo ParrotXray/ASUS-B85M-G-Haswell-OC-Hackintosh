@@ -16,7 +16,7 @@
 | Ethernet | Realtek® 8111G |
 | BIOS Version | 1011 |
 
-## 📀System
+## <img src="https://miro.medium.com/max/1200/0*kIZGmKka4RBS9R2D.png" height="40px">System
 
 ### macOS Ventura 
 
