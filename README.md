@@ -23,12 +23,9 @@
 **Noteice**:  
 iGPU with Haswell cpu cannot be driven on macOS Ventura, dGPU needs to be installed
 
-**Updating macOS Ventura B3 requires attention**:  
-After replacing the OC version, execute the command **`sudo kextcache -i/`** on the terminal. After the system is updated and restarted, you need to execute **`CleanNvram.efi`** before proceeding to the next step. If the previous update fails, you need to apply the new OC after booting, Download the update again in System Settings
-
 | ![alt text](Mac13.png) |
 |------------|
-| <a href="https://www.apple.com/tw/macos/macos-ventura-preview/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/512px-MacOS_logo_%282017%29.svg.png?20210723125421" height="32px"/>macOS Ventura 13(RC) |
+| <a href="https://www.apple.com/tw/macos/macos-ventura-preview/"><img src="https://i.pcmag.com/imagery/reviews/04iuiyBZ61YPzdVS4GfRYKM-29.fit_scale.size_760x427.v1666629922.png" height="32px"/>macOS Ventura 13 |
 | <a href="https://github.com/dortania/build-repo/releases/tag/OpenCorePkg-3b7ee4f"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.6-Dev-3b7ee4f |
 | <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>iMac 19.1 |
 
