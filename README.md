@@ -21,7 +21,7 @@
 ### macOS Ventura 
 
 **Noteice**:  
-iGPU with Haswell cpu cannot be driven on macOS Ventura, dGPU needs to be installed
+iGPU with Haswell cpu cannot be driven on macOS Ventura, dGPU needs to be installed(The success of driving nuclear display with OCLP can be proposed in lssues)
 
 | ![alt text](Mac13.png) |
 |------------|
