@@ -1,7 +1,7 @@
 ### 🌐Language
 [English](README.md) | [中文](README-zh.md)
 
-# <img src=https://cdn2.iconfinder.com/data/icons/designer-skills/128/apple-ios-system-platform-os-mac-linux-512.png>ASUS-B85M-G-Haswell-Hackintosh 
+# <img src=https://cdn-icons-png.flaticon.com/512/2/2235.png height="50px">ASUS-B85M-G-Haswell-Hackintosh 
 
 ## 🖥️Device
 
