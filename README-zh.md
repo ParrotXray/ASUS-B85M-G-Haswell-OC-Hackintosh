@@ -21,14 +21,11 @@
 ### macOS Ventura
 
 **注意**:  
-在macOS Ventura上無法驅動帶有Haswell cpu的核顯，需要安裝獨顯
-
-**更新macOS Ventura B3需注意**:  
-替換完OC版本後，在終端機先執行此命令 **`sudo kextcache -i/`** ，在系統更新重啟後，需要先執行 **`CleanNvram.efi`** 後才能繼續下一步，如果在之前更新失敗需要套用新的OC引導後需在系統設置再下載一次更新
+在macOS Ventura上無法驅動帶有Haswell cpu的核顯，需要安裝獨顯(用OCLP驅動核顯成功可以在lssues提出)
 
 | ![alt text](Mac13.png) |
 |------------|
-| <a href="https://www.apple.com/tw/macos/macos-ventura-preview/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/512px-MacOS_logo_%282017%29.svg.png?20210723125421" height="32px"/>macOS Ventura 13(beta 9) |
+| <a href="https://www.apple.com/tw/macos/macos-ventura-preview/"><img src="https://i.pcmag.com/imagery/reviews/04iuiyBZ61YPzdVS4GfRYKM-29.fit_scale.size_760x427.v1666629922.png" height="32px"/>macOS Ventura 13 |
 | <a href="https://github.com/dortania/build-repo/releases/tag/OpenCorePkg-3b7ee4f"><img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg" height="34px"/>Opencore 0.8.6-Dev-3b7ee4f |
 | <a href="https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide"><img src="https://aux.iconspalace.com/uploads/imac-icon-256.png" height="30px"/>iMac 19.1 |
 
