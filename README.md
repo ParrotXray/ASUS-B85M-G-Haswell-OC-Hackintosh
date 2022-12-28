@@ -1,7 +1,7 @@
 ### 🌐Language
 [English](README.md) | [中文](README-zh.md)
 
-# <img src=https://cdn-icons-png.flaticon.com/512/2/2235.png height="50px">ASUS-B85M-G-Haswell-Hackintosh 
+# <img src=https://i0.wp.com/clay-atlas.com/wp-content/uploads/2020/10/apple.png height="50px">ASUS-B85M-G-Haswell-Hackintosh 
 
 ## 🖥️Device
 
